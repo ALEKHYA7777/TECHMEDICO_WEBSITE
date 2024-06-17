@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image {
+    width: 70px;
+    height: 60px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+h5 {
+    color: #323f4b;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://th-i.thgim.com/public/incoming/qldpgl/article65891888.ece/alternates/FREE_1200/iStock-479304376.jpg");
+    background-size: cover;
+}
+
+.banner-heading {
+    color: skyblue;
+    font-weight: 800;
+    font-family: "Sans-Serif";
+    font-size: 50px;
+
+}
+
+.banner-sideheading {
+    color: white;
+    font-weight: 900;
+    font-family: "Caveat";
+    font-size: 40px;
+}
+
+.banner-caption {
+    color: white;
+    font-family: "Sans-Serif";
+    font-style: italic;
+}
+
+.custom-button {
+    color: white;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    font-family: "Caveat";
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.features-section {
+    background-color: white;
+}
+
+.features-heading {
+    color: #1f2933;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.features-menu-card {
+    text-align: center;
+
+}
+
+.features-menu-card-image {
+    width: 100px;
+    height: 100px;
+}
+
+.features-menu-card-heading {
+    color: #1f2933;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Sans-Serif";
+}
+
+.features-menu-card-description {
+    color: #7b8794;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: #1f2933;
+
+}
+
+.kit-section {
+    background-color: #f9fbfe;
+}
+
+.kit-heading {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.kit-item-image {
+    height: 200px;
+    width: 170px;
+}
+
+.explore-menu-section {
+    background-color: #f9fbfe;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+
+.thanking-customers-section {
+    background-color: #d0b2001a;
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.pheonix-logo {
+    height: 120px;
+    width: 120px;
+}
+
+.optics-section {
+    background-color: white;
+
+}
+
+.optics-section-img {
+    width: 100%;
+}
+
+.optics-section-heading {
+    color: #1f2933;
+    font-size: 32px;
+    font-weight: bold;
+    width: 100%;
+    font-family: "Roboto";
+}
+
+.optics-section-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+}
